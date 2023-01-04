@@ -1,4 +1,6 @@
-Random Quote Generator
+DEMO: https://mcdonn117.github.io/random-quote-machine/
+
+Random Quote Machine
 
 by McDonn Michael Dag-um
 
