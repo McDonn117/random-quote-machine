@@ -1,10 +1,10 @@
 DEMO: https://mcdonn117.github.io/random-quote-machine/
 
-Random Quote Machine
+# Random Quote Machine
 
-by McDonn Michael Dag-um
+### using React and TailwindCSS
 
-using React and TailwindCSS
+### by McDonn Michael Dag-um
 
 from the FCC Front End Development Libraries Certficiation Projects
 
